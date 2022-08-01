@@ -1,9 +1,9 @@
 <h1 align="center">Hola, soy Emerio</h1>
 <h3 align="center">Front-End Developer</h3>
 
-- 👨‍💻 Puedes revisar todos mis Proyectos en [https://lefriik.com/](https://lefriik.com/)
+- Puedes revisar todos mis Proyectos en [https://lefriik.com/](https://lefriik.com/)
 
-- 📫 Escribeme a **emerio@lefriik.com**
+- Escribeme a **emerio@lefriik.com**
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
