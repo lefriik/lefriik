@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Emerio</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Developer</h3>
 
 - Puedes revisar todos mis Proyectos en [https://lefriik.com/](https://lefriik.com/)
 
